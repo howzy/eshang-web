@@ -1,0 +1,29 @@
+{
+  "SERVERPARTObject": [
+    {
+      "SERVERPART_ID": "001",
+      "SERVERPART_NAME": "杭州服务区",
+      "SERVERPART_CODE": "001"
+    },
+    {
+      "SERVERPART_ID": "002",
+      "SERVERPART_NAME": "宁波服务区",
+      "SERVERPART_CODE": "002"
+    },
+    {
+      "SERVERPART_ID": "003",
+      "SERVERPART_NAME": "温州服务区",
+      "SERVERPART_CODE": "003"
+    },
+    {
+      "SERVERPART_ID": "004",
+      "SERVERPART_NAME": "嘉兴服务区",
+      "SERVERPART_CODE": "004"
+    },
+    {
+      "SERVERPART_ID": "005",
+      "SERVERPART_NAME": "湖州服务区",
+      "SERVERPART_CODE": "005"
+    }
+  ]
+}
