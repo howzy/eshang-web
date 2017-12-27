@@ -1,0 +1,34 @@
+{
+  "EndaccountObject": [
+    {
+      "SERVERPART_NAME": "服务区一",
+      "SHOPNAME": "门店一",
+      "TICKETCOUNT": "129",
+      "TOTALCOUNT": "247",
+      "TOTALSELLAMOUNT": "2661",
+      "CASHPAY": "2661",
+      "MOBILEPAYMENT": "0",
+      "ENDACCOUNT_DATE": "2017/3/21 6:35:46"
+    },
+    {
+      "SERVERPART_NAME": "服务区二",
+      "SHOPNAME": "门店二",
+      "TICKETCOUNT": "89",
+      "TOTALCOUNT": "300",
+      "TOTALSELLAMOUNT": "3000",
+      "CASHPAY": "3000",
+      "MOBILEPAYMENT": "0",
+      "ENDACCOUNT_DATE": "2017/3/28 6:35:46"
+    },
+    {
+      "SERVERPART_NAME": "服务区三",
+      "SHOPNAME": "门店三",
+      "TICKETCOUNT": "189",
+      "TOTALCOUNT": "420",
+      "TOTALSELLAMOUNT": "5280",
+      "CASHPAY": "5280",
+      "MOBILEPAYMENT": "0",
+      "ENDACCOUNT_DATE": "2017/4/1 6:35:46"
+    }
+  ]
+}
